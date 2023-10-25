@@ -1,6 +1,6 @@
 # VIT_BATCH_20-1-
 Industrial Fire Safety System
-
+# **AIM:**
 ## **PROBLEM STATEMENT**
 To develop a prototype system which can generate and evacuate the workers under fire accident.
 Developing a prototype system for generating and evacuating workers under a fire accident addresses a critical safety concern, and its scope can have wide-ranging implications. Here are two aspects to consider regarding the scope of such a solution:
@@ -27,3 +27,6 @@ Developing a prototype system for generating and evacuating workers under a fire
   •	LED
 ### **2.	Software Components**
   •	Arduino IDE
+
+## RESULT:
+Thus,in conclusion, the developed prototype system demonstrated effective fire detection, rapid worker alerting, and guided evacuation. Results indicate a promising solution for enhancing workplace safety in fire emergencies.
